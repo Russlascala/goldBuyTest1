@@ -138,6 +138,9 @@ footer a:hover{
         font-size: 25px;
     }
 
+    .sloganInfo {
+        margin-top: 20px;
+    }
     .sloganInfo, h6{
         font-size: 16px;
     }
